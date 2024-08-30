@@ -1,7 +1,11 @@
-import KgButton from "./KgButton";
+import CompButton from "./CompButton";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <CompButton></CompButton>
+    </>
+  );
 }
 
 export default App;
