@@ -1,11 +1,7 @@
 import KgButton from "./KgButton";
 
 function App() {
-  return (
-    <>
-      Heading <KgButton />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
